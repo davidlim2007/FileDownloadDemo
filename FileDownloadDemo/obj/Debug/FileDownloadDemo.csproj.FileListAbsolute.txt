@@ -1,0 +1,10 @@
+D:\David\Programming\C#\FileDownloadDemo\FileDownloadDemo\bin\Debug\FileDownloadDemo.exe.config
+D:\David\Programming\C#\FileDownloadDemo\FileDownloadDemo\bin\Debug\FileDownloadDemo.exe
+D:\David\Programming\C#\FileDownloadDemo\FileDownloadDemo\bin\Debug\FileDownloadDemo.pdb
+D:\David\Programming\C#\FileDownloadDemo\FileDownloadDemo\obj\Debug\FileDownloadDemo.csprojResolveAssemblyReference.cache
+D:\David\Programming\C#\FileDownloadDemo\FileDownloadDemo\obj\Debug\FileDownloadDemo.FormDownload.resources
+D:\David\Programming\C#\FileDownloadDemo\FileDownloadDemo\obj\Debug\FileDownloadDemo.FormMain.resources
+D:\David\Programming\C#\FileDownloadDemo\FileDownloadDemo\obj\Debug\FileDownloadDemo.Properties.Resources.resources
+D:\David\Programming\C#\FileDownloadDemo\FileDownloadDemo\obj\Debug\FileDownloadDemo.csproj.GenerateResource.Cache
+D:\David\Programming\C#\FileDownloadDemo\FileDownloadDemo\obj\Debug\FileDownloadDemo.exe
+D:\David\Programming\C#\FileDownloadDemo\FileDownloadDemo\obj\Debug\FileDownloadDemo.pdb
