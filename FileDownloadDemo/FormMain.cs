@@ -10,13 +10,6 @@ using System.Windows.Forms;
 
 namespace FileDownloadDemo
 {
-    // Todo (19/6/2017):
-    //
-    // Once m_thd_file_download finishes running,
-    // reset it to null.
-    //
-    // Hint: Use delegates.
-
     public partial class FormMain : Form
     {
         public FormMain()
